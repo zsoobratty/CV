@@ -17,7 +17,7 @@ I am a full stack developer looking for a full time role in the industry.
 
 Having recently graduated from Makers Academy, a 16 week full-time software development boot camp, I am now looking to show the skills I have developed before and during the course.
 
-Prior to Makers, I was a client servicing consultant at Aviva. Having spent a lot of my role liaising with, and assisting developers, I thought to myself - hey, why not learn the skills to become one?
+Prior to Makers, I was a Client Servicing Consultant at Aviva. Having spent a lot of my role liaising with, and assisting developers, I thought to myself - why not learn the skills to become one?
 
 ## <a name="Projects">Projects</a>
 
@@ -27,8 +27,8 @@ Here are some of the projects I've created on my journey to becoming a software 
 |[Instaclone](https://github.com/zsoobratty/instaclone)| A clone of popular social media site - Instagram | Javascript, MongoDB, Express, React, Node.js |
 |[Chitter](https://github.com/zsoobratty/chitter-challenge)| A clone of the social media app - Twitter | Ruby, Sinatra, RSpec, ActiveRecord, SQL, Capybara|
 |[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)| A rock paper scissors game in pure JavaScript | JavaScript, HTML, CSS |
-|[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| Final project - A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, PyGame |
 |[Indecision](https://github.com/zsoobratty/indecision-app)| An app that helps you make a decision on what to do today | JavaScript, React, Babel, Webpack, SCSS
+|[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, PyGame |
 
 ## <a name="Skills">Skills</a>
 
@@ -38,10 +38,10 @@ As a client servicing consultant at Aviva, I was regularly entrusted to organise
 
 #### Learning
 Being able to learn fast has been the one of the main reasons why I have excelled in all my roles.  
-Makers Academy was a perfect way to put fast learning skills into practice. Within 4 months I was able to learn core principals of software development, and more importantly, the skills to be able to further my learning in the software development world. 
+Makers Academy was a perfect way to put fast learning skills into practice. Within 4 months I was able to learn core principals of software development, and more importantly, the skills to be able to further my learning in the world of software development.
 
 #### Dedication
-I joined Aviva with no knowledge of pensions. However, I pride myself on being a stand out performer in all of my career. Therefore, in order to maintain that standard, I took the time to research and learn the skills needed to take on any task given to me. Due to this, within the first 2 weeks of work, I was entrusted to be responsible for the largest and most complex client. 
+I joined Aviva with no knowledge of pensions. However, I pride myself on being a stand out performer in all of my career. Therefore, in order to maintain that standard, I took the time to research and learn the skills needed to take on any task given to me. Due to this, within the first 2 weeks of work, I was entrusted to be responsible for our largest and most complex client.
 
 ## <a name="Education">Education</a>  
 
@@ -64,18 +64,25 @@ I joined Aviva with no knowledge of pensions. However, I pride myself on being a
 
 *Client Servicing Consultant*
 
-- Organising and leading high profile client visits with the aim of improving service levels and client relationship
-- Liaising with developers to incorporate improvements and innovations into our platform
-- Creating processes and tools to increase automation and reduce manual intervention, in order to increase accuracy and efficiency
-- Training staff on various aspects of their roles and remaining a point of contact on projects I had prior involvement in
+- Organising and leading high profile client visits with the aim of improving
+service levels and client relationship, contributing to a further investment of
+£600m from a key client.
+- Liaising with developers to provide innovations into our platform.
+- Creating processes and tools to increase automation and reduce manual
+intervention, in order to increase accuracy and efficiency.
+- Training new and experienced staff on all aspects of their role.
+- Maintaining past projects and remaining a point of contact for them.
 
 #### AXA Insurance (November 2010 to May 2013)
 
 *Claims Handler*
 
-- Analysing and investigating insurance claims to provide a fair outcome for customers
+- Analysing insurance claims in order to provide a fair outcome and an
+excellent customer journey - achieved 100% accuracy and all within service
+level agreements.
 - Working with audit teams to maintain high levels of service and provide innovative ideas to improve efficiency and audit scores
-- Training staff to progress onto a claim handling role
+- Training new staff on their job roles, as well as training experienced staff to
+progress in their career.
 
 ## <a name="Interests">Interests</a>
 
