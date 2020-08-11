@@ -24,9 +24,9 @@ Prior to Makers, I was a Client Servicing Consultant at Aviva. Having spent a lo
 Here are some of the projects I've created on my journey to becoming a software developer:
 | Project       | Description                | Technologies |  
 |-------------- |--------------------------- |-----------   |
-|[Instaclone](https://github.com/zsoobratty/instaclone)| A clone of popular social media site - Instagram | Javascript, MongoDB, Express, React, Node.js |
-|[Chitter](https://github.com/zsoobratty/chitter-challenge)| A clone of the social media app - Twitter | Ruby, Sinatra, RSpec, ActiveRecord, SQL, Capybara|
-|[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)| A rock paper scissors game in pure JavaScript | JavaScript, HTML, CSS |
+|[Instaclone](https://github.com/zsoobratty/instaclone)| A clone of popular social media site - Instagram. Built while studying the MERN stack. | Javascript, MongoDB, Express, React, Node.js |
+|[Chitter](https://github.com/zsoobratty/chitter-challenge)| A clone of the social media app - Twitter, built during Makers learning full stack ruby development. | Ruby, Sinatra, RSpec, ActiveRecord, SQL, Capybara|
+|[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)| A rock paper scissors game in vanilla JavaScript. Built this in order to get a grasp of JavaScript before delving into frameworks | JavaScript, HTML, CSS |
 |[Indecision](https://github.com/zsoobratty/indecision-app)| An app that helps you make a decision on what to do today | JavaScript, React, Babel, Webpack, SCSS
 |[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, PyGame |
 
