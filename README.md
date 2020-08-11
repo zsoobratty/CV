@@ -52,7 +52,7 @@ I joined Aviva with no knowledge of pensions. However, I pride myself on being a
 - Object-oriented programming, test driven development, pair-programming, agile project management and many more.
 - Languages - Ruby, JavaScript, Python, SQL
 - Frameworks & Libraries - Rails, Sinatra, OpenCV, Caffe, Node.js, jQuery, React
-- Testing Frameworks - RSpec & Jasmine
+- Testing Frameworks - RSpec, JEST & Jasmine
 
 #### Other qualifications 
 - National Diploma in Business & Finance (Distinction grade)
