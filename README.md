@@ -6,6 +6,8 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <a href="https://ziad-soobratty.netlify.app/">
 <img src="images/portfolio.png" alt="linkedin" hspace="50" height="42" width="42"></a>  
+<a href="http://ziadsoobratty.hostmycv.com/">
+<img src="images/CV.png" alt="linkedin" hspace="50" height="42" width="42"></a>  
 
 [Introduction](#Introduction) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
@@ -87,7 +89,7 @@ progress in their career.
 ## <a name="Interests">Interests</a>
 
 #### Cooking 
-Cooking is one of my favourite things to do. From making recipes created by incredible chefs all around the world, to experimenting with different flavours and creating my own recipes. 
+Cooking is one of my favourite things to do. From making recipes created by incredible chefs all around the world, to experimenting with different flavours and creating my own recipes.  
 Recreating meals that I've had at restaurants is also a hobby of mine. A personal favourite of mine was recreating and, in my opinion, improving the famous Big Mac.
 
 #### Piano  
