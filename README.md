@@ -3,7 +3,9 @@
 # Ziad Soobratty  
 
 <a href="https://www.linkedin.com/in/ziad-soobratty-4aaab21a0/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>  
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a href="https://ziad-soobratty.netlify.app/">
+<img src="portfolio.png" alt="linkedin" hspace="50" height="42" width="42"></a>  
 
 [Introduction](#Introduction) | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
@@ -22,11 +24,11 @@ Prior to Makers, I was a client servicing consultant at Aviva. Having spent a lo
 Here are some of the projects I've created on my journey to becoming a software developer:
 | Project       | Description                | Technologies |  
 |-------------- |--------------------------- |-----------   |
-|[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| Final project - A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, PyGame |
+|[Instaclone](https://github.com/zsoobratty/instaclone)| A clone of popular social media site - Instagram | Javascript, MongoDB, Express, React, Node.js |
 |[Chitter](https://github.com/zsoobratty/chitter-challenge)| A clone of the social media app - Twitter | Ruby, Sinatra, RSpec, ActiveRecord, SQL, Capybara|
-|[MakersBnB](https://github.com/jasylwong/MakersBnB)| A clone of popular accommodation booking site - AirBnB | JavaScript, Ruby, Jasmine, RSpec, Capybara, Sinatra, ActiveRecord, SQL |
-|[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)|A rock paper scissors game in pure JavaScript | JavaScript, HTML, CSS |
-|[Thermostat](https://github.com/zsoobratty/thermostat-JS)| A single page web app of a thermostat | JavaScript, Jasmine, jQuery, OpenWeather API
+|[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)| A rock paper scissors game in pure JavaScript | JavaScript, HTML, CSS |
+|[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| Final project - A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, PyGame |
+|[Indecision](https://github.com/zsoobratty/indecision-app)| An app that helps you make a decision on what to do today | JavaScript, React, Babel, Webpack, SCSS
 
 ## <a name="Skills">Skills</a>
 
