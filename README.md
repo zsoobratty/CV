@@ -45,7 +45,7 @@ I joined Aviva with no knowledge of pensions. However, I pride myself on being a
 
 ## <a name="Education">Education</a>  
 
-#### Makers Academy (January to April 2020)  
+#### Makers Academy (December 2019 to April 2020)  
 
 16 weeks of intense software development, learning skills such as:
 
