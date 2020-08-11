@@ -30,6 +30,7 @@ Here are some of the projects I've created on my journey to becoming a software 
 |[Chitter](https://github.com/zsoobratty/chitter-challenge)| A clone of the social media app - Twitter, built during Makers learning full stack ruby development. | Ruby, Sinatra, RSpec, ActiveRecord, SQL, Capybara|
 |[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)| A rock paper scissors game in vanilla JavaScript. Built this in order to get a grasp of JavaScript before delving into frameworks | JavaScript, HTML, CSS |
 |[Indecision](https://github.com/zsoobratty/indecision-app)| An app that helps you make a decision on what to do today. Built to learn the ins and outs of React. | JavaScript, React, Babel, Webpack, SCSS
+|[Thermostat-JS](https://github.com/zsoobratty/thermostat-JS)| A thermostat with a power saving function, with built in functionality to search for temperatures in other cities | JavaScript, JQuery, Jasmine, CSS, HTML|
 |[PongNotPong](https://github.com/Peter2-71828/PongNotPong)| A machine learning computer vision pong game controlled by the position of your head | Python, OpenCV, Caffe, PyGame |
 
 ## <a name="Skills">Skills</a>
