@@ -88,7 +88,7 @@ progress in their career.
 
 #### Cooking 
 Cooking is one of my favourite things to do. From making recipes created by incredible chefs all around the world, to experimenting with different flavours and creating my own recipes. 
-Recreating meals that I've had at restaurants is also a hobby of mine. A personal fravourite of mine was recreating and, in my opinion, improving the famous Big Mac.
+Recreating meals that I've had at restaurants is also a hobby of mine. A personal favourite of mine was recreating and, in my opinion, improving the famous Big Mac.
 
 #### Piano  
 So I was playing a game called Final Fantasy X, and on comes a tune, played on the piano, by the name of 'To Zanarkand'. Inspired by it, I went and bought myself a piano with the sole purpose of playing that song.  
