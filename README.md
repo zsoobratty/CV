@@ -36,7 +36,7 @@ Here are some of the projects I've created on my journey to becoming a software 
 
 #### Leadership
 
-As a client servicing consultant at Aviva, I was regularly entrusted to organise and lead meetings with the most lucrative clients we had, in order rekindle the relationship with the client, and work with them to improve service levels. Due to this, we were able to maintain a solid relationship with them, and ensure that our reputation as an insurer remained at the highest level. This contributed to obtaining a further investment of £600m from the client.
+As a client servicing consultant at Aviva, I was regularly entrusted to organise and lead meetings with the most lucrative clients we had, in order rekindle the relationship with the client, and work with them to improve service levels. Due to this, we were able to maintain a solid relationship with them, and ensure that our reputation as an pension provider remained at the highest level. This contributed to obtaining a further investment of £600m from the client.
 
 #### Learning
 Being able to learn fast has been the one of the main reasons why I have excelled in all my roles.  
