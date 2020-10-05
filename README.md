@@ -24,6 +24,7 @@ Prior to Makers, I was a Client Servicing Consultant at Aviva. Having spent a lo
 Here are some of the projects I've created on my journey to becoming a software developer:
 | Project       | Description                | Technologies |  
 |-------------- |--------------------------- |-----------   |
+|[CryptoTracker](https://github.com/zsoobratty/cryptotracking.git)| Current project for tracking Crypto holdings, news, prices, etc. - in progress.  | Javascript, MongoDB, Express, React, Node.js |
 |[Instaclone](https://github.com/zsoobratty/instaclone)| A clone of popular social media site - Instagram. Built while studying the MERN stack. Hosted at https://instaclone91.herokuapp.com/ | Javascript, MongoDB, Express, React, Node.js |
 |[Chitter](https://github.com/zsoobratty/chitter-challenge)| A clone of the social media app - Twitter, built during Makers learning full stack ruby development. | Ruby, Sinatra, RSpec, ActiveRecord, SQL, Capybara|
 |[Rock Paper Scissors](https://github.com/zsoobratty/rps-JS)| A rock paper scissors game in vanilla JavaScript. Built this in order to get a grasp of JavaScript before delving into frameworks | JavaScript, HTML, CSS |
